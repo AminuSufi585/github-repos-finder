@@ -1,6 +1,7 @@
 html,
 body {
   margin: 0;
+  background: #282c35;
   box-sizing: border-box;
 }
 
@@ -12,6 +13,7 @@ div#container {
 }
 
 div#container h1 {
+  background-color: lightgreen;
   font-size: 2em;
   margin: 20px;
   font-weight: bolder;
